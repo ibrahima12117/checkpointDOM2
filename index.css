@@ -1,0 +1,28 @@
+.container{
+    text-align: center;
+    margin-top: 10px;
+}
+#box{
+    width: 350px;
+    height: 200px;
+    background-color: aquamarine;
+    border-radius: 8px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#button{
+   background-color: rgb(17, 18, 18);
+   border-radius: 8px;
+   height: 30px;
+   justify-content: center;
+   
+ }
+ /*univited link*/
+button:link {
+    color:rgb(10, 10, 10);
+  }
+/*mouse over link*/
+button:hover{
+    background-color: blue;
+     }
